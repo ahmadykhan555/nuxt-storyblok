@@ -9,8 +9,10 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "axios": "^0.22.0",
     "core-js": "^3.15.1",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "storyblok-nuxt": "^2.0.1"
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.7",
